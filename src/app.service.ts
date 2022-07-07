@@ -11,8 +11,9 @@ export class AppService {
     const fs = require('fs')
 
     try {
-      const data = fs.readFileSync('./src/todas.json', 'utf8')
-      return data;
+      const data:Buffer = fs.readFileSync('./src/todas.json', 'utf8')
+      const produtos = JSON.parse(data.toString())
+      return produtos;
     } catch (err) {
       console.error(err)
     }
