@@ -21,15 +21,18 @@ export class AppService {
   }
 
 
-  // async findById(id: number) {
-  //   const todas = this.todas.find((title) => title?.id === id);
+  async findById(id: number) {
+    const fs = require('fs')
+    const data = fs.readFileSync('./src/todas.json', 'utf8')
+    const produtos = JSON.parse(data)
+    const todas = produtos?.find((title) => title?.id === id);
 
-  //   if (!todas) {
-  //     throw Error(`Produto com o ID '${id}' não encontrado.`);
-  //   }
+    if (!todas) {
+      throw Error(`Produto com o ID '${id}' não encontrado.`);
+    }
 
-  //   return todas;
-  // }
+    return todas;
+  }
 
 
   basquete: any = [

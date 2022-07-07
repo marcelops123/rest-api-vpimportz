@@ -11,12 +11,12 @@ export class AppController {
     return this.appService.findAll();
   }
   
-  // @Get('todas/:id')
-  // findById(@Param('id', ParseIntPipe) id) {
-  //   return this.appService.findById(id).catch((e) => {
-  //     throw new NotFoundException(e.message);
-  //   });
-  // }
+  @Get('todas/:id')
+  findById(@Param('id', ParseIntPipe) id) {
+    return this.appService.findById(id).catch((e) => {
+      throw new NotFoundException(e.message);
+    });
+  }
   
   @Get('basquete')
   findAllBasquete() {
