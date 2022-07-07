@@ -36,7 +36,7 @@ export class AppService {
       "id": 3,
       "title": "Regata Utah Jazz",
       "price": "200,00",
-      "description": "Regata Utah Jazz Masculina  Roxa",
+      "description": "Regata Utah Jazz Masculina - Roxa",
       "category": "Basquete",
       "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/157/953/products/regata-nba-utah-jazz-roxo-roxa-mitchell-45-21-22-11-e3d93b659c451cf8ff16491280367485-640-01-b42e9e2fcc299ec2c216523741746366-1024-1024.jpg",
       "rating": {
