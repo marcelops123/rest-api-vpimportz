@@ -1,0 +1,87 @@
+[
+    {
+      "id": 3,
+      "title": "Regata Utah Jazz",
+      "price": "200,00",
+      "description": "Regata Utah Jazz Masculina - Roxa",
+      "category": "Basquete",
+      "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/157/953/products/regata-nba-utah-jazz-roxo-roxa-mitchell-45-21-22-11-e3d93b659c451cf8ff16491280367485-640-01-b42e9e2fcc299ec2c216523741746366-1024-1024.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 10,
+      "title": "Regata Nike Giannis",
+      "price": "200,00",
+      "description": "Regata Nike Giannis Antetokounmpo Bucks Icon Edition 2020 Masculina",
+      "category": "Basquete",
+      "image": "https://images.lojanike.com.br/860x860/produto/regata-nike-giannis-antetokounmpo-bucks-icon-edition-2020-masculina-CW3672-329-1.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Regata Nike Kyrie Irving Nets",
+      "price": "200,00",
+      "description": "Regata Nike Kyrie Irving Nets Icon Edition 2020 Masculina.",
+      "category": "Basquete",
+      "image": "https://images.lojanike.com.br/860x860/produto/regata-nike-kyrie-irving-nets-icon-edition-2020-masculina-CW3658-015-1-11626441888.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "Regata Nike Bulls Icon Edition",
+      "price": "200,00",
+      "description": "Regata Nike Bulls Icon Edition 2020 Masculina",
+      "category": "Basquete",
+      "image": "https://images.lojanike.com.br/860x860/produto/regata-nike-bulls-icon-edition-2020-masculina-CW3660-660-1.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Regata Lakers Anthony Davis",
+      "price": "200,00",
+      "description": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina.",
+      "category": "Basquete",
+      "image": "https://images.lojanike.com.br/860x860/produto/camiseta-sem-manga-lal-m-nk-swgmn-jsy-ic-CW3669-728-1-11628868710.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Regata Nike Los Angeles Lakers Swingman",
+      "price": "200,00",
+      "description": "Regata Nike Los Angeles Lakers Swingman 2021/22 Masculina.",
+      "category": "Basquete",
+      "image": "https://images.lojanike.com.br/860x860/produto/regata-nike-los-angeles-lakers-swingman-202122-masculina-DB4032-505-1-11636470663.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 21,
+      "title": "Los Angeles Lakers Jersey NBA crew neck Roxa",
+      "price": "200,00",
+      "description": "Los Angeles Lakers Jersey NBA crew neck Roxa Tamanhos: S M L XL XXL",
+      "category": "Basquete",
+      "image": "https://cf.shopee.com.br/file/ef0b6fa88551fac886e27326680222ec",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    }
+
+  ]
