@@ -3,7 +3,7 @@
     {
       "id": 2,
       "title": "Camisa Liverpool",
-      "price": "125,00",
+      "price": "R$125,00",
       "description": "Camisa Liverpool Edição Especial Preta 19/20 - Masculina",
       "category": "Futebol",
       "image": "https://d2r9epyceweg5n.cloudfront.net/stores/002/157/953/products/18a0577e0c9f5be3ce0fade01d45a2801-871084011fa4dd3d3f16530858469099-1024-1024.jpg",
@@ -15,7 +15,7 @@
     {
       "id": 6,
       "title": "Camisa Nike Liverpool",
-      "price": "125,00",
+      "price": "R$125,00",
       "description": "Camisa Nike Liverpool I 2022/23 Jogador Masculina.",
       "category": "Futebol",
       "image": "https://images.lojanike.com.br/500x500/produto/camisa-nike-liverpool-i-202223-jogador-masculina-DJ7647-609-1-11653079907.jpg",
@@ -27,7 +27,7 @@
     {
       "id": 7,
       "title": "Camisa Nike PSG IV 2021/22",
-      "price": "125,00",
+      "price": "R$125,00",
       "description": "Camisa Nike PSG IV 2021/22 Torcedor Masculina.",
       "category": "Futebol",
       "image": "https://images.lojanike.com.br/500x500/produto/camisa-nike-psg-iv-202122-torcedor-masculina-DH7471-101-1-11644341792.jpg",
@@ -39,7 +39,7 @@
     {
       "id": 13,
       "title": "Regata Lakers Anthony Davis",
-      "price": "200,00",
+      "price": "R$200,00",
       "description": "Regata Lakers Anthony Davis Icon Edition 2020/21 Masculina.",
       "category": "Basquete",
       "image": "https://images.lojanike.com.br/860x860/produto/camiseta-sem-manga-lal-m-nk-swgmn-jsy-ic-CW3669-728-1-11628868710.jpg",
@@ -51,7 +51,7 @@
     {
       "id": 15,
       "title": "Camiseta Nike PSG I 2021/22",
-      "price": "125,00",
+      "price": "R$125,00",
       "description": "Camiseta Nike PSG I 2021/22 Torcedor Masculina",
       "category": "Futebol",
       "image": "https://images.lojanike.com.br/860x860/produto/camiseta-nike-psg-i-202122-torcedor-masculina-CV7903-411-1.jpg",
@@ -63,7 +63,7 @@
     {
       "id": 16,
       "title": "Camisa Nike Liverpool I 2021/22",
-      "price": "125,00",
+      "price": "R$125,00",
       "description": "Camisa Nike Liverpool I 2021/22 Torcedor Pro Masculina",
       "category": "Futebol",
       "image": "https://images.lojanike.com.br/860x860/produto/camisa-nike-liverpool-i-202122-torcedor-pro-masculina-DB2560-688-1-11621433205.jpg",
@@ -75,7 +75,7 @@
     {
       "id": 24,
       "title": "Camisa Paris Saint-Germain Home 20/21",
-      "price": "125,00",
+      "price": "R$125,00",
       "description": "Camisa Paris Saint-Germain Home 20/21 s/n° Torcedor",
       "category": "Futebol",
       "image": "https://m.media-amazon.com/images/I/41rL0lODQyL._AC_SL1088_.jpg",
